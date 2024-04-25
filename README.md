@@ -5,6 +5,9 @@ Web Bluetooth Uploader can be found here: https://atc1441.github.io/ATC_GICISKY_
 
 You can find the 4.2" Demo File in this repo
 
+For newer models with TLSR SoC this flasher can be used to flash a custom firmware, use with caution!: 
+https://atc1441.github.io/BLE_EPaper_OTA.html
+
 
 This repo is made together with this explanation video:(click on it)
 
